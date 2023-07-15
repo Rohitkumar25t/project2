@@ -1,0 +1,20 @@
+.navigation{
+    padding: 0 10px;
+    align-items: center;
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+
+}
+.navigation img{
+    max-width: 95px;
+    margin-top: 11px;
+   
+}
+.navigation ul{
+    display: flex;
+    list-style-type: none;
+    gap: 25px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}

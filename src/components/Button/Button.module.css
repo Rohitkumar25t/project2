@@ -1,0 +1,31 @@
+.btn1{
+    padding: 15px 10px;
+    background-color: black;
+    color: white;
+    min-width: 100px;
+    display:flex;
+    align-items:center;
+    gap:7px;
+    font-weight: 400;
+    border-radius:4px;
+    justify-content: center;
+}
+.btn2{
+    padding: 15px 10px;
+    background-color: black;
+    color: white;
+    min-width: 115px;
+    display:flex;
+    align-items:center;
+    
+    gap:7px;
+    font-weight: 400;
+    border-radius:4px;
+    justify-content: center;
+}
+.top_button{
+    display:flex;
+    flex-direction: row;
+    gap: 24px;
+    
+}
